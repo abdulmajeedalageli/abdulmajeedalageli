@@ -73,12 +73,6 @@ Comprehensive ML experimentation framework with custom PyTorch implementations.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajeedalageli&layout=compact&theme=dark)
 
-## 💼 Professional Experience
-
-**Customer Service Specialist** | The Chefz | Jun 2022 - Jun 2023
-- Achieved 93% satisfaction rate through data-driven problem-solving
-- Mentored team on service quality best practices
-- Established communication channels between business development and support teams
 
 ## 📫 Let's Connect
 
@@ -94,4 +88,3 @@ Comprehensive ML experimentation framework with custom PyTorch implementations.
 
 💡 **Open to:** Data Science roles, ML Engineering positions, Research collaborations
 
-⚡ **Fun fact:** I'm passionate about turning complex data into actionable insights and deploying ML models to production!
