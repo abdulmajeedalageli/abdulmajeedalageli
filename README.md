@@ -56,7 +56,7 @@ Production-ready NLP system for detecting biomedical abbreviations deployed on G
   - Deployed with auto-scaling Flask application
 - **Live Demo:** [Try it here](https://nlp-flask-app-764939121491.us-central1.run.app/)
 
-### 🧪 [PyTorch MLP & Data Engineering Experiments](https://github.com/abdulmajeedalageli/Models-Experiments)
+### 🧪 [PyTorch MLP & Data Engineering Experiments](https://github.com/abdulmajeedalageli/wildfire-diabetes-prediction)
 Comprehensive ML experimentation framework with custom PyTorch implementations.
 
 - **Tech Stack:** PyTorch, scikit-learn, Pandas
