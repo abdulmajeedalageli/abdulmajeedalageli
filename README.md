@@ -67,13 +67,6 @@ Comprehensive ML experimentation framework with custom PyTorch implementations.
   - Implemented 7-fold cross-validation with recall optimization
 - **Datasets:** Fire Weather Dataset | CDC BRFSS Diabetes Survey
 
-## 📊 GitHub Stats
-
-![Abdulmajeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmajeedalageli&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajeedalageli&layout=compact&theme=dark)
-
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmajeedalageli)
