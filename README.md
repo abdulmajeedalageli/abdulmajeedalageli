@@ -2,14 +2,19 @@
 
 ## 🎓 About Me
 
-I'm a **Data Scientist & ML Engineer** based in Riyadh, Saudi Arabia, with a Master's degree in Data Science from the University of Surrey. I specialize in building scalable machine learning systems, from data preprocessing to production deployment.
+I'm a Data Scientist and AI engineer in Riyadh with an MSc in Data Science (Merit) from the University of Surrey. I build LLM, NLP and time-series systems, and I evaluate them before I trust them.
 
-- 🔬 **Research Interests:** Deep Learning, NLP, Time Series Forecasting
-- 💼 **Currently:** Pursuing Master's in Data Science (Expected 2026)
-- 📚 **Education:** BSc in Mathematics | Google Data Analytics Certificate
-- 🌍 **Location:** Riyadh, Saudi Arabia
+Focus: LLM applications (RAG, agents), NLP, deep learning
+Education: MSc Data Science, University of Surrey (2026) · BSc Mathematics · Google Data Analytics Certificate
+Open to: Data Scientist, ML Engineer and LLM/AI Engineer roles
 
-## 🛠️ Technical Skills
+
+-  **Research Interests:** Deep Learning, NLP, Time Series Forecasting
+-  **Currently:** Pursuing Master's in Data Science (Expected 2026)
+-  **Education:** BSc in Mathematics | Google Data Analytics Certificate
+-  **Location:** Riyadh, Saudi Arabia
+
+##  Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,40 +39,15 @@ I'm a **Data Scientist & ML Engineer** based in Riyadh, Saudi Arabia, with a Mas
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
-## 🚀 Featured Projects
+### Featured projects
+**Hospital Invoice Audit**: LLM-assisted audit of invoices against reimbursement contracts. Precision 1.000 / recall 0.948 on the labelled dev hospital; reproducible without an API key. [Repo](https://github.com/abdulmajeedalageli/hospital-invoice-audit)
+**Local RAG Pipeline**: RAG from scratch with a custom chunker, NumPy vector store and local Qwen2.5-1.5B, plus LLM-as-a-judge evaluation. [Repo](https://github.com/abdulmajeedalageli/rag-pipeline)
+**Local LangGraph Agent**: on-device agent with RAG, persistent memory and human approval for file and email actions. [Repo](https://github.com/abdulmajeedalageli/local-langgraph-agent)
+**SciBERT Abbreviation Detection**: 0.93 F1, deployed on Google Cloud Run. [Live demo](paste-link)
 
-### 📈 [LSTM Stock Price Prediction](https://github.com/abdulmajeedalageli/LSTM-stock-prediction)
-Predicting Tesla stock prices using advanced LSTM neural networks with comprehensive feature engineering.
+Also: LSTM stock forecasting · wildfire-risk MLP · football tactical dashboard · real-time object + colour detection
 
-- **Tech Stack:** TensorFlow/Keras, yfinance, scikit-learn
-- **Highlights:** 
-  - Achieved ~5.21% MAPE on 5 years of market data
-  - Engineered 12+ technical indicators (RSI, MACD, ATR, OBV)
-  - Implemented 60-day sliding window approach
-- **Key Results:** MAPE: 5.21% | RMSE: $21.62 | MAE: $16.40
-
-### 🔬 [SciBERT Biomedical Abbreviation Detection](https://github.com/abdulmajeedalageli/scibert-abbreviation-detection)
-Production-ready NLP system for detecting biomedical abbreviations deployed on Google Cloud Run.
-
-- **Tech Stack:** PyTorch, Transformers, Flask, Docker, Google Cloud Run
-- **Highlights:**
-  - Fine-tuned SciBERT on PLOD-CW-25 dataset (8,732 tokens)
-  - Achieved 93% F1-score using BIO tagging scheme
-  - Deployed with auto-scaling Flask application
-- **Live Demo:** [Try it here](https://nlp-flask-app-764939121491.us-central1.run.app/)
-
-### 🧪 [PyTorch MLP & Data Engineering Experiments](https://github.com/abdulmajeedalageli/wildfire-diabetes-prediction)
-Comprehensive ML experimentation framework with custom PyTorch implementations.
-
-- **Tech Stack:** PyTorch, scikit-learn, Pandas
-- **Highlights:**
-  - Built custom MLPs from scratch with 5 systematic experiments
-  - Advanced preprocessing: log transformations, cyclical encoding, PCA analysis
-  - Tested multiple activation functions (ReLU, Tanh, SiLU, GELU)
-  - Implemented 7-fold cross-validation with recall optimization
-- **Datasets:** Fire Weather Dataset | CDC BRFSS Diabetes Survey
-
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmajeedalageli)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/abdulmajeedalageli)
