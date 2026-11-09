@@ -1,20 +1,14 @@
-# Hi there, I'm Abdulmajeed Alageli 👋
+# Hi, I'm Abdulmajeed Alageli 👋
 
-## 🎓 About Me
+I'm a Data Scientist and ML/AI engineer in Riyadh with an MSc in Data Science (Merit) from the University of Surrey and a BSc in Mathematics. I build LLM, NLP and ML systems, and I test them before I trust them.
 
-I'm a Data Scientist and AI engineer in Riyadh with an MSc in Data Science (Merit) from the University of Surrey. I build LLM, NLP and time-series systems, and I evaluate them before I trust them.
+- **Focus:** LLM applications (RAG, agents), NLP, ML on imbalanced data
+- **Education:** MSc Data Science, University of Surrey (2026) · BSc Mathematics
+- **Certifications:** NVIDIA NCA-GENL · Google Data Analytics
+- **Location:** Riyadh, Saudi Arabia
+- **Open to:** Data Scientist, ML Engineer and AI Engineer roles
 
-Focus: LLM applications (RAG, agents), NLP, deep learning
-Education: MSc Data Science, University of Surrey (2026) · BSc Mathematics · Google Data Analytics Certificate
-Open to: Data Scientist, ML Engineer and LLM/AI Engineer roles
-
-
--  **Research Interests:** Deep Learning, NLP, Time Series Forecasting
--  **Currently:** Pursuing Master's in Data Science (Expected 2026)
--  **Education:** BSc in Mathematics | Google Data Analytics Certificate
--  **Location:** Riyadh, Saudi Arabia
-
-##  Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,24 +33,23 @@ Open to: Data Scientist, ML Engineer and LLM/AI Engineer roles
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
-### Featured projects
-**Hospital Invoice Audit**: LLM-assisted audit of invoices against reimbursement contracts. Precision 1.000 / recall 0.948 on the labelled dev hospital; reproducible without an API key. [Repo](https://github.com/abdulmajeedalageli/hospital-invoice-audit)
+## Featured projects
+
+**AML Transaction Monitoring**: leakage-tested pipeline on 5.1M synthetic transactions. LightGBM PR-AUC 0.439 vs 0.147 for logistic regression, with SHAP explanations and an ablation. [Repo](https://github.com/abdulmajeedalageli/aml-transaction-monitoring)
+
+**Wakeel**: Arabic AI agent running in production for a real estate agency, with human takeover. The production code is private; the repo is the public version. [Repo](https://github.com/abdulmajeedalageli/wakeel)
+
+**Hospital Invoice Audit**: LLM-assisted audit of invoices against reimbursement contracts. Precision 1.000 / recall 0.948 on the labelled development hospital; reproducible without an API key. [Repo](https://github.com/abdulmajeedalageli/insurance_auditing)
+
 **Local RAG Pipeline**: RAG from scratch with a custom chunker, NumPy vector store and local Qwen2.5-1.5B, plus LLM-as-a-judge evaluation. [Repo](https://github.com/abdulmajeedalageli/rag-pipeline)
+
 **Local LangGraph Agent**: on-device agent with RAG, persistent memory and human approval for file and email actions. [Repo](https://github.com/abdulmajeedalageli/local-langgraph-agent)
-**SciBERT Abbreviation Detection**: 0.93 F1, deployed on Google Cloud Run. [Live demo](paste-link)
 
-Also: LSTM stock forecasting · wildfire-risk MLP · football tactical dashboard · real-time object + colour detection
+**SciBERT Abbreviation Detection**: 93% token-level F1 (0.88 on abbreviations), deployed on Google Cloud Run.
 
-##  Let's Connect
+Also: ARIMAX vs LSTM stock forecasting · wildfire-risk MLP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmajeedalageli)
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajeed-alageli)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/abdulmajeedalageli)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-💡 **Open to:** Data Science roles, ML Engineering positions, Research collaborations
-
