@@ -37,7 +37,7 @@ I'm a Data Scientist and ML/AI engineer in Riyadh with an MSc in Data Science (M
 
 **AML Transaction Monitoring**: leakage-tested pipeline on 5.1M synthetic transactions. LightGBM PR-AUC 0.439 vs 0.147 for logistic regression, with SHAP explanations and an ablation. [Repo](https://github.com/abdulmajeedalageli/aml-transaction-monitoring)
 
-**Wakeel**: Arabic AI agent running in production for a real estate agency, with human takeover. The production code is private; the repo is the public version. [Repo](https://github.com/abdulmajeedalageli/wakeel)
+**Wakeel**: Arabic AI agent running in production for a real estate agency, with human takeover and 469 automated tests. [Repo](https://github.com/abdulmajeedalageli/wakeel)
 
 **Hospital Invoice Audit**: LLM-assisted audit of invoices against reimbursement contracts. Precision 1.000 / recall 0.948 on the labelled development hospital; reproducible without an API key. [Repo](https://github.com/abdulmajeedalageli/insurance_auditing)
 
