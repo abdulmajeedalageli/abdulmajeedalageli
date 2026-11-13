@@ -47,7 +47,7 @@ I'm a Data Scientist and ML/AI engineer in Riyadh with an MSc in Data Science (M
 
 **SciBERT Abbreviation Detection**: 93% token-level F1 (0.88 on abbreviations), deployed on Google Cloud Run.
 
-Also: ARIMAX vs LSTM stock forecasting · wildfire-risk MLP
+Also: [wildfire-risk MLP study](https://github.com/abdulmajeedalageli/wildfire-prediction)
 
 ## Let's Connect
 
